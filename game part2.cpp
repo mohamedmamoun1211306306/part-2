@@ -975,3 +975,12 @@ int main()
 {
     gamePlay();
 }
+// *********************************************************
+// Course: TCP1101 PROGRAMMING FUNDAMENTALS
+// Year: Trimester 1, 2022/23 (T2215)
+// Lab: TT9L
+// Names: mohamed mamoun mohamed|Alharthi, Hamzah Hamed S 
+// IDs: 1211306306 |1211305485
+// Emails: mohamed1161901324@gmail.com| 1211305485@student.mmu.edu.my
+// Phones: 01161901324|01127880328
+// *********************************************************
